@@ -6,22 +6,16 @@
 </div>
 
 🎓 **Computer Science Graduate**  
-Exploring **AI, Big Data & Data Analytics**  
-Passionate about **Machine Learning, Big Data and Game Dev**
 
-## 🐈‍⬛ About Me
+- Exploring **AI, Big Data & Data Analytics**  
+- Passionate about **Machine Learning, Big Data and Game Dev**
 - Experienced as a tutor, skilled at breaking down complex concepts 
 - Hobbies: game dev tinkering, data-driven projects, and jailbreaking an old nintendo ds
 
-## 🛠️ Skills & Tools
+## ⚒ Skills & Tools
 `Python` • `TensorFlow` • `PyTorch` • `SQL` • `Java` • `C#` • `Unity` • `Git` • `Figma`  
 
-## 📌 Projects
-- **Where’s Wally? with Deep Learning** — CNN, R-CNN, Faster R-CNN, and DeepGaze IIE for visual search  
-- **Unity Game Development** — built an interactive 2D puzzle platformer  
-- **Laravel Web App** — developed a CRUD-based web project with authentication
-
-## ⚒ Working On
+## 💻 Working On...
 - Couch to coders course project 
 - Polishing an end-to-end project
 - Planning data gatherng for chronic pruritis analysis
