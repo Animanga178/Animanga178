@@ -5,7 +5,7 @@
 
 </div>
 
-🎓 **Computer Science Graduate**  
+🎓 **Computer Science Graduate | Junior Applications Support Analyst**  
 
 - Exploring **AI, Big Data & Data Analytics**  
 - Passionate about **Machine Learning, Big Data and Game Dev**
@@ -16,7 +16,7 @@
 `Python` • `TensorFlow` • `PyTorch` • `SQL` • `Java` • `C#` • `Unity` • `Git` • `Figma`  
 
 ## 💻 Working On...
-- Couch to coders course project 
+- SQL projects for practice
 - Polishing an end-to-end project
 - Planning data gatherng for chronic pruritis analysis
   
